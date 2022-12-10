@@ -11,3 +11,4 @@ Seafile Pro docker-compose environment with customizable settings
 * reverse proxy configuration template
 * templates for seafdav, seafevents, seafile and seahub config
 * sane defaults regarding nginx timeouts, ulimits
+* rsync command to copy to webdav (rsync -avzP --inplace)
